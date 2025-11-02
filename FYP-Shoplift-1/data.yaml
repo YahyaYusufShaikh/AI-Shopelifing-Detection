@@ -1,0 +1,13 @@
+names:
+- normal
+- shoplifting
+nc: 2
+roboflow:
+  license: CC BY 4.0
+  project: fyp-shoplift
+  url: https://universe.roboflow.com/fastnuces-lctu7/fyp-shoplift/dataset/1
+  version: 1
+  workspace: fastnuces-lctu7
+test: C:\Users\HP EliteBook\Downloads\project\FYP-Shoplift-1/test/images
+train: C:\Users\HP EliteBook\Downloads\project\FYP-Shoplift-1/train/images
+val: C:\Users\HP EliteBook\Downloads\project\FYP-Shoplift-1/valid/images
